@@ -430,6 +430,7 @@ export default {
 
     section .snakes .head {
         z-index: 999;
+        line-height: 10px;
     }
 
     section .snakes .head em {
